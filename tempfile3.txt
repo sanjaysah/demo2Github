@@ -1,0 +1,1 @@
+s is first line in temp file
